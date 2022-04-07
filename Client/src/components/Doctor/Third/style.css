@@ -1,0 +1,47 @@
+.bigB {
+}
+.TB {
+  border: 0px solid black;
+  max-width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 5%;
+}
+.TB_1 {
+  /* border: 2px solid blue; */
+
+  /* min-width: 100; */
+  max-width: 1500px;
+  max-height: 1500px;
+  margin-left: 100px;
+  margin-top: 90px;
+}
+.TB_2 {
+  /* border: 2px solid green; */
+  min-width: 100;
+  max-width: 40%;
+  padding: 5px;
+  margin: auto;
+}
+.myheading {
+  color: rgb(45, 94, 185);
+  display: flex;
+  font-size: 35px;
+  border: 0px solid red;
+  max-width: 100%;
+  min-width: 100;
+  font-weight: bolder;
+  max-width: 500;
+}
+.mytxt {
+  padding-top:20px; 
+  border: 0px solid pink;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  max-width: 100%;
+  min-width: 100;
+  max-width: 500;
+}

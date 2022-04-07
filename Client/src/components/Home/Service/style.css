@@ -1,0 +1,122 @@
+.container2{
+  border: 0px solid black;
+  width: 100%;
+  height: 75vh;
+  position: relative;
+ background-image: url('https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-endless-river.png');
+ background-repeat: no-repeat;
+ background-size: 100% 500px;
+  opacity: 0.9;
+
+  }
+  .b11{
+  font-size: 50px;
+    top:20px;
+    left: 530px;
+    border: 0px solid black;
+    position: absolute;
+  }
+  .b22{
+    font-size: large;
+    font-weight: bolder;
+    color: red;
+    text-shadow: 1px 1px 1px grey;
+    top:110px;
+   margin-left: 20%;
+   margin-right: 20%;
+    border: 0px solid black;
+    position: absolute;
+    width:"20px";
+    font-size: 20px;
+  }
+  .box{
+    border: 0px solid black;
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top:150px;
+  }
+  .c1{
+    margin-left:60px; 
+    border: 0px solid black;
+    height: 230px;
+    width: 200px;
+    position: absolute;
+  top: 50px;
+  left: 20px;
+  }
+  .txt{
+    color :white;
+    font-weight: bolder;
+    border: 0px solid red;
+    height: 30px;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #000;
+  }
+  .txt2{
+    padding-top: 20px;
+    padding-left: 30px;
+    text-shadow: 1px 1px 1px #000;
+  text-align: left;
+    border: 0px solid green;
+    height: 190px;
+    width: 350px;
+    color: white;
+    font-size: 20px;
+  }
+  .c12{
+    border: 0px solid black;
+    height: 230px;
+    width: 200px;
+    position: absolute;
+  top: 50px;
+  text-shadow: 1px 1px 1px #000;
+  left: 500px;
+  }
+  .txt2e{
+    color :white;
+    font-weight: bolder;
+    border: 0px solid red;
+    height: 30px;
+    font-size: 30px;
+    margin-left: 30px;
+    text-shadow: 1px 1px 1px #000;
+  }
+  .txt22{
+    padding-top: 20px;
+    padding-left: 30px;
+    color: white;
+    font-size: 20px;
+  text-align: left;
+    border: 0px solid green;
+    height: 190px;
+    width: 350px;
+
+  }
+  .c13{
+    border: 0px solid black;
+    height: 230px;
+    width: 200px;
+    position: absolute;
+  top: 50px;
+  left: 900px;
+  }
+  .txt3{
+    color :white;
+    font-weight: bolder;
+    border: 0px solid red;
+    height: 30px;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #000;
+  }
+  .txt23{
+    padding-top: 20px;
+    padding-left: 30px;
+    color: white;
+    font-size: 20px;
+  text-align: left;
+    border: 0px solid green;
+    height: 190px;
+    text-shadow: 1px 1px 1px #000;
+    width: 350px;
+  }
